@@ -1,5 +1,6 @@
-import logo from "./logo.svg";
 import "./App.css";
+
+import logo from "./logo.svg";
 
 function App() {
     return (
@@ -16,7 +17,7 @@ function App() {
                     rel="noopener noreferrer"
                 >
                     Learn React Now
-                    <h1>Hello From v2</h1>
+                    <h1>Still Works</h1>
                 </a>
             </header>
         </div>
